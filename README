@@ -1,0 +1,9 @@
+knn算法实现
+---------------
+采用的是ＵＣＩ机器学习数据库中的:Letter Recognition Data Set,
+详细信息见  http://archive.ics.uci.edu/ml/datasets/Letter+Recognition
+
+其中letter.txt训练集19000行，待分类集采用100行的数据
+knn算法中k值默认为1的情况下，匹配率为96.0%
+
+分别为ｃ/c++/py代码实现，其中py中ｋ值指定为1
